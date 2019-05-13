@@ -1,7 +1,7 @@
 $(function() {
     $.get("customers.json", function(data) {
         console.log(data);
-    
+     
         var Search = data;
 
           var customers = Search[document.cookie];

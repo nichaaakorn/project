@@ -23,7 +23,7 @@ const banner = ['/*!\n',
   ' * Licensed under <%= pkg.license %> (https://github.com/BlackrockDigital/<%= pkg.name %>/blob/master/LICENSE)\n',
   ' */\n',
   '\n'
-].join('');
+].join(''); 
 
 // BrowserSync
 function browserSync(done) {

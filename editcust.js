@@ -23,7 +23,7 @@ $(function () {
         +customers.address.postalCode + customers.address.country + customers.address.phone ;
         $("#address").val(address);
         console.log(address);
-
+ 
     });
 
    

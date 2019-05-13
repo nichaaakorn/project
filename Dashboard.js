@@ -10,7 +10,7 @@ $(function() {
     $.get("customers.json", function(data) {
         var i =0
         for(i=0;i<=data.length;i++){
-         var x=0;
+         var x=0; 
          x += i;
         }
         $("#customers").append(x);

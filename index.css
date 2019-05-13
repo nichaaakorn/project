@@ -204,7 +204,7 @@ li a:hover {
     border-radius: 100%;
     background-color: #fff;
     width: 3px;
-    height: 3px;
+    height: 3px;  
     opacity: 0.3;
     will-change: opacity;
 }
